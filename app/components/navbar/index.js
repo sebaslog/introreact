@@ -11,7 +11,7 @@ const Navbar = () => {
                         Home
                     </li>
                     <li>
-                        Info
+                        Informacion
                     </li>
                     <li>
                         Blog
